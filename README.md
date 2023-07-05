@@ -25,7 +25,7 @@ Follow Me on twitter:
 ## Quick start
 ```
 git clone https://github.com/burhankhaja/firstGithubPush.git
-cd gitPush
+cd firstGithubPush
 make cc
 ```
                     
